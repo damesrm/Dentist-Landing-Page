@@ -27,11 +27,3 @@ The interface was designed to provide simple navigation, highlight services, pre
 
 This project was developed as part of my portfolio, with the goal of practicing the creation of professional, responsive landing pages for real business scenarios.
 
-## Preview
-
-You can add an image, GIF, or live project link here.
-
-Example:
-
-```md
-![Project Preview](./img/preview.png)
